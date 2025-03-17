@@ -35,7 +35,7 @@ export const NewsTicker = () => {
   }, [currentJokeIndex]);
 
   return (
-    <div className="fixed top-0 left-0 w-full bg-black h-8 flex items-center overflow-hidden">
+    <div className="fixed top-0 left-0 w-full bg-black h-8 flex items-center overflow-hidden z-50">
       <div
         ref={tickerRef}
         className="text-white font-mono text-sm whitespace-nowrap absolute"
