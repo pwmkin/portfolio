@@ -7,7 +7,7 @@ export const SocialLinks = () => {
         <a href="https://github.com/pwmkin" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-300">
           <Github size={24} />
         </a>
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-300">
+        <a href="https://www.linkedin.com/in/pwmkin" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-300">
           <Linkedin size={24} />
         </a>
         <a href="https://twitter.com/pwmkin_" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-300">
