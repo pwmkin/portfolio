@@ -23,4 +23,12 @@ export const projects: Project[] = [
       "Professional calculator for basic and scientific arithmetic to calculate values ​​with extreme precision.",
     repository: "https://github.com/pwmkin/wcalc",
   },
+  {
+    id: "3",
+    title: "gatekeep",
+    techStack: ["Python", "Linux"],
+    description:
+      "Security log analyzer that scans service logs (SSH, MySQL, Apache, Nginx) to detect and report failed login attempts.",
+    repository: "https://github.com/pwmkin/gatekeep",
+  },
 ];
