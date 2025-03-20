@@ -31,4 +31,12 @@ export const projects: Project[] = [
       "Security log analyzer that scans service logs (SSH, MySQL, Apache, Nginx) to detect and report failed login attempts.",
     repository: "https://github.com/pwmkin/gatekeep",
   },
+  {
+    id: "4",
+    title: "aicodegen",
+    techStack: ["Python", "AI", "LLM"],
+    description:
+      "Python-based AI-powered project generator and editor. It connects to a Large Language Model (LLM) via an API (default: CloudFlare AI Worker) to create, modify, or extend codebases with intelligent decision-making.",
+    repository: "https://github.com/pwmkin/aicodegen",
+  },
 ];
