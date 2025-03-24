@@ -39,4 +39,11 @@ export const projects: Project[] = [
       "Python-based AI-powered project generator and editor. It connects to a Large Language Model (LLM) via an API (default: CloudFlare AI Worker) to create, modify, or extend codebases with intelligent decision-making.",
     repository: "https://github.com/pwmkin/aicodegen",
   },
+  {
+    id: "5",
+    title: "minici",
+    techStack: ["Go", "CI/CD", "DevOps"],
+    description: "Lightweight miniature CI/CD system written in Go that allows you to build and deploy applications in Docker containers easily",
+    repository: "https://github.com/pwmkin/minici"
+  }
 ];
