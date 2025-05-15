@@ -45,5 +45,12 @@ export const projects: Project[] = [
     techStack: ["Go", "CI/CD", "DevOps"],
     description: "Lightweight miniature CI/CD system written in Go that allows you to build and deploy applications in Docker containers easily",
     repository: "https://github.com/pwmkin/minici"
+  },
+  {
+    id: "6",
+    title: "flare.io",
+    techStack: ["JavaScript", "Bun", "API"],
+    description: "Minimalist yet powerful HTTP backend framework designed for Bun",
+    repository: "https://github.com/pwmkin/flareio"
   }
 ];
