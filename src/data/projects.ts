@@ -52,5 +52,12 @@ export const projects: Project[] = [
     techStack: ["JavaScript", "Bun", "API"],
     description: "Minimalist yet powerful HTTP backend framework designed for Bun",
     repository: "https://github.com/pwmkin/flareio"
+  },
+  {
+    id: "7",
+    title: "Aesthetic Music Player",
+    techStack: ["HTML", "JavaScript", "Vite"],
+    description: "A beautiful, minimalistic and modern music player built with HTML, JavaScript, and WaveSurfer.js",
+    repository: "https://github.com/pwmkin/aesthetic-music-player"
   }
 ];
