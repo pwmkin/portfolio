@@ -59,5 +59,12 @@ export const projects: Project[] = [
     techStack: ["HTML", "JavaScript", "Vite"],
     description: "A beautiful, minimalistic and modern music player built with HTML, JavaScript, and WaveSurfer.js",
     repository: "https://github.com/pwmkin/aesthetic-music-player"
+  },
+  {
+    id: "8",
+    title: "WebPAD",
+    techStack: ["Java", "Micronaut", "MySQL"],
+    description: "A personal note taking app built in Java and Micronaut.",
+    repository: "https://github.com/pwmkin/WebPAD"
   }
 ];
