@@ -66,5 +66,12 @@ export const projects: Project[] = [
     techStack: ["Java", "Micronaut", "MySQL"],
     description: "A personal note taking app built in Java and Micronaut.",
     repository: "https://github.com/pwmkin/WebPAD"
+  },
+  {
+    id: "9",
+    title: "CVal",
+    techStack: ["React", "Hono", "AI"],
+    description: "AI-powered CV evaluator. Upload your resume, specify your desired job, and receive feedback and suggestions.",
+    repository: "cvalapp.vercel.app"
   }
 ];
