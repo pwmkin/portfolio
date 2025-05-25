@@ -87,5 +87,12 @@ export const projects: Project[] = [
     techStack: ["React", "Zustand", "TanStack"],
     description: "A modern React-based frontend boilerplate with authentication-ready architecture, built with Vite, TypeScript, and Tailwind CSS.",
     repository: "https://github.com/pwmkin/pro-react-boilerplate"
+  },
+  {
+    id: "12",
+    title: "Git Tree Explorer",
+    techStack: ["React", "NextJS", "TailwindCSS"],
+    description: "Create beautiful, customizable visual representations of your GitHub repositories for presentations, documentation, and social media.",
+    repository: "https://github.com/pwmkin/git-tree-explorer"
   }
 ];
