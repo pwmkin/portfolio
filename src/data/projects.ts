@@ -72,6 +72,20 @@ export const projects: Project[] = [
     title: "CVal",
     techStack: ["React", "Hono", "AI"],
     description: "AI-powered CV evaluator. Upload your resume, specify your desired job, and receive feedback and suggestions.",
-    repository: "cvalapp.vercel.app"
+    repository: "https://github.com/pwmkin/CVal-Backend"
+  },
+  {
+    id: "10",
+    title: "Pro NestJS Boilerplate",
+    techStack: ["NestJS", "PostgreSQL", "Passport"],
+    description: "A production-ready NestJS boilerplate with complete authentication system, monitoring, and DevOps tooling.",
+    repository: "https://github.com/pwmkin/pro-nestjs-boilerplate"
+  },
+  {
+    id: "11",
+    title: "Pro React Boilerplate",
+    techStack: ["React", "Zustand", "TanStack"],
+    description: "A modern React-based frontend boilerplate with authentication-ready architecture, built with Vite, TypeScript, and Tailwind CSS.",
+    repository: "https://github.com/pwmkin/pro-react-boilerplate"
   }
 ];
