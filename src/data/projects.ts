@@ -94,5 +94,12 @@ export const projects: Project[] = [
     techStack: ["React", "NextJS", "TailwindCSS"],
     description: "Create beautiful, customizable visual representations of your GitHub repositories for presentations, documentation, and social media.",
     repository: "https://github.com/pwmkin/git-tree-explorer"
+  },
+  {
+    id: "13",
+    title: "ProtoBuffers",
+    techStack: ["TypeScript", "Protobuf", "Serialization"],
+    description: "A lightweight and performant Protocol Buffers (protobuf) encoding and decoding library for JavaScript/TypeScript.",
+    repository: "https://github.com/pwmkin/protobuffers"
   }
 ];
