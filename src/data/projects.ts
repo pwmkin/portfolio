@@ -101,5 +101,12 @@ export const projects: Project[] = [
     techStack: ["TypeScript", "Protobuf", "Serialization"],
     description: "A lightweight and performant Protocol Buffers (protobuf) encoding and decoding library for JavaScript/TypeScript.",
     repository: "https://github.com/pwmkin/protobuffers"
+  },
+  {
+    id: "14",
+    title: "WhoIsHere",
+    techStack: ["Python", "Networking", "Linux"],
+    description: "An advanced network scanning tool written in Python that discovers devices on local networks and identifies their characteristics.",
+    repository: "https://github.com/pwmkin/whoishere"
   }
 ];
